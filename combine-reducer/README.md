@@ -1,7 +1,7 @@
 **React-Redux User & Posts Example**
 <!-- Overview -->
 
-- This is a minimal React-Redux example showing how to:
+This is a minimal React-Redux example showing how to:
 - Manage global state with Redux.
 - Display user information.
 - Track posts count.
